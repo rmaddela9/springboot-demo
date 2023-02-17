@@ -11,7 +11,7 @@ public class DemoController {
 
 @GetMapping("/message")
 public String message() {
-	return "demo message!";
+	return "demo messages!";
 	
 }
 
